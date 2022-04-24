@@ -2,12 +2,14 @@
 
 ## Linear Regression to Predict MPG
 
-Please see the chart below of the analysis that was performeed using linear regression formula to predict MPG.
+Please see the chart below of the analysis that was performeed using linear regression formula to predict MPG. The chart shows how each variable affects the MPG of a car.
+
 ![Linear regression](https://user-images.githubusercontent.com/96032255/164989634-4e429847-f26b-4c02-8c8e-68c31f38e4b8.PNG)
 
 ## Summary Statistics on Suspension Coils
 
-Please see the 2 charts below showing the final analysis of the summary statistics on the suspension.
+Please see the 2 charts below showing the final analysis of the summary statistics on the suspension. Lots 1 and 2 meet the variance requirement to be under 100. Lot 3 seem to be higher with a variance of 170.
+
 ![total summary challenge 15](https://user-images.githubusercontent.com/96032255/164990060-e958f96f-76a6-4bf6-a2f2-9fc5172a2f42.PNG)
 
 ![lot summary](https://user-images.githubusercontent.com/96032255/164990070-8d29a3e5-1edc-45af-a3a2-176c71d1fb27.PNG)
